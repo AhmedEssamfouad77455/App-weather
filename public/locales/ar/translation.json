@@ -1,0 +1,12 @@
+{
+    "Welcome to React": "أهلا براكت",
+    "min" : "الصغري" ,
+    "max" : "الكبري" ,
+    "description" : "وصف",
+    "degree" : "الدرجة",
+    "current_temperature" : "الحالية",
+    "humidity" : "الرطوبة" ,
+    "Rayide" : "الرياض",
+    "overcast clouds" : "ملبد بالغيوم"
+
+}
